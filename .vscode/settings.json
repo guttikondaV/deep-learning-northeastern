@@ -1,0 +1,31 @@
+{
+  "editor.fontFamily": "IBM Plex Mono",
+  "editor.rulers": [
+    80,
+    120
+  ],
+  "editor.fontSize": 15,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  },
+  "notebook.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "files.autoSave": "afterDelay",
+  "jupyter.askForKernelRestart": false,
+  "notebook.lineNumbers": "on",
+  "notebook.formatOnSave.enabled": true,
+  "notebook.output.scrolling": true,
+  "notebook.formatOnCellExecution": true,
+  "python.defaultInterpreterPath": "~/anaconda3/envs/northeastern/bin/python3",
+  "python.terminal.activateEnvironment": true,
+  "terminal.integrated.fontFamily": "Source Code Pro for Powerline",
+  "accessibility.signals.notebookCellCompleted": {
+    "sound": "off"
+  },
+  "accessibility.signals.notebookCellFailed": {
+    "sound": "on"
+  },
+  "accessibility.signals.sounds.volume": 100
+}
